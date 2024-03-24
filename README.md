@@ -1,6 +1,6 @@
 # Family History
 
-Copyright David W Rose. Licensed [GPL v3 or later](https://www.gnu.org/licenses/gpl-3.0.html).
+Copyright 2024 David W Rose. Licensed [GPL v3 or later](https://www.gnu.org/licenses/gpl-3.0.html).
 
 Software for the processing of geneological information.
 
