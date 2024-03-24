@@ -1,6 +1,6 @@
 # Family History
 
-Copyright David W Rose. Licensed [][license].
+Copyright David W Rose. Licensed [GPL v3 or later:wq][https://www.gnu.org/licenses/gpl-3.0.html].
 
 Software for the processing of geneological information.
 
@@ -17,4 +17,3 @@ functions for manipulating the data found within family trees, geneological rese
 If I persist, I may end up creating a "better mouse trap" for this kind of geneology database.  At the
 very least, this project provides a goal and motivation to learn and practice.
 
-# GPL-3.0-or-later
